@@ -1,8 +1,9 @@
 # Maik Rodrigues 
 
+
 Esses são alguns dos projetos, estudos e Bootcamps que já realizei. 
 
-**Background in**: Python | JAVA | SQL | Machine Learning | DataViz
+**Background in**: Python | JAVA | SQL | IA | DataViz
 
 
 ## Bootcamps:
@@ -20,6 +21,8 @@ Esses são alguns dos projetos, estudos e Bootcamps que já realizei.
 [**AutomaÇão Web**](https://github.com/MaikRodriguess/automacao-web-selenium-project) - Este projeto é uma automação web em Python que obtém cotações de moedas e ouro online para calcular preços de produtos em uma importadora.
 
 [**Python Impressionador**](https://github.com/MaikRodriguess/python-impressionador) - Este é um curso completo de Python, abrangendo desde fundamentos até tópicos avançados, com ênfase em integrações, automações e projetos práticos.
+
+[**SQL Impressionador**](https://github.com/MaikRodriguess/SQL-Impressionador) - Este curso de SQL oferece uma compreensão abrangente do SQL Server e MySQL, cobrindo tópicos desde variáveis, manipulação de strings e datas, até funções avançadas como subqueries, CTE’s e Window Functions
 
 ## Testes técnicos:
 [**Analista de dados - Solucx**](https://github.com/MaikRodriguess/teste-analise-dados-solucx) - Este é um teste de análise de dados da SoluCX para a seleção de analista de dados, focado em avaliar a habilidade do candidato em manipular, interpretar informações e identificar insights a partir dos dados.
