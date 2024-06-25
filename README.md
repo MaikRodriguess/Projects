@@ -14,6 +14,8 @@ Esses são alguns dos projetos, estudos e Bootcamps que já realizei.
 
 ## Projetos pessoais:
 
+[**API Previsão de Preços de Casas com Machine Learning**](https://github.com/MaikRodriguess/deploy-model-ml) - API RESTful que prevê preços de casas com base em suas especificações, utilizando um modelo de machine learning pré-treinado.
+
 [**Dev Week iFood**](https://github.com/MaikRodriguess/analise-sentimentos-ifood-project) - O bootcamp da Dev Week iFood utiliza Python e IA para análise de dados, focando no cálculo do Net Promoter Score (NPS) e na análise de sentimentos expressos em comentários.
 
 [**Gerador de Mensagens Automáticas WhatsApp**](https://github.com/MaikRodriguess/gerador-mensagens-whatsapp) - É uma pequena automação para o envio de mensagens por whatsapp.
