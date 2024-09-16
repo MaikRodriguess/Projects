@@ -16,11 +16,11 @@ Esses são alguns dos projetos, estudos e Bootcamps que já realizei.
 
 [**API Previsão de Preços de Casas com Machine Learning**](https://github.com/MaikRodriguess/deploy-model-ml) - API RESTful que prevê preços de casas com base em suas especificações, utilizando um modelo de machine learning pré-treinado.
 
-[**Dev Week iFood**](https://github.com/MaikRodriguess/analise-sentimentos-ifood-project) - O bootcamp da Dev Week iFood utiliza Python e IA para análise de dados, focando no cálculo do Net Promoter Score (NPS) e na análise de sentimentos expressos em comentários.
+[**Análise de sentimentos - Dev Week iFood**](https://github.com/MaikRodriguess/analise-sentimentos-ifood-project) - O bootcamp da Dev Week iFood utiliza Python e IA para análise de dados, focando no cálculo do Net Promoter Score (NPS) e na análise de sentimentos expressos em comentários.
 
 [**Gerador de Mensagens Automáticas WhatsApp**](https://github.com/MaikRodriguess/gerador-mensagens-whatsapp) - É uma pequena automação para o envio de mensagens por whatsapp.
 
-[**AutomaÇão Web**](https://github.com/MaikRodriguess/automacao-web-selenium-project) - Este projeto é uma automação web em Python que obtém cotações de moedas e ouro online para calcular preços de produtos em uma importadora.
+[**Cotação de moedas - Automação Web**](https://github.com/MaikRodriguess/automacao-web-selenium-project) - Este projeto é uma automação web em Python que obtém cotações de moedas e ouro online para calcular preços de produtos em uma importadora.
 
 [**Python Impressionador**](https://github.com/MaikRodriguess/python-impressionador) - Este é um curso completo de Python, abrangendo desde fundamentos até tópicos avançados, com ênfase em integrações, automações e projetos práticos.
 
